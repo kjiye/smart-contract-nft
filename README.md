@@ -8,8 +8,9 @@
 - Node.js 16
 - Hardhat 2
 - OpenZeppelin 4
+- chai 4
 
-## Features  
+## Feature
 
 - `mintToken` : 사용자가 <ins>이더리움 결제</ins>를 선택하는 경우, <ins>일반 통화 결제(휴대폰 소액 결제, 계좌이체 등)</ins> 완료 후 <ins>NFT 받기</ins>를 요청하는 경우, 관리자 페이지 내에서 <ins>민팅하기</ins> 기능을 실행하는 경우 작동
   - paused 상태의 영향을 받는 기능
